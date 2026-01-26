@@ -68,6 +68,7 @@ body{
 	line-height: 1em;
 	background-color: var(--white-color);
 	color: var(--text-color);
+	padding: 0px !important;
 }
 
 p{
@@ -590,7 +591,7 @@ header.main-header .header-sticky.active{
 	font-weight: 600;
 	line-height: 1.2em;
 	padding: 14px 20px !important;
-	color: var(--text-color);
+	color: var(--weight-color);
 	text-transform: capitalize;
 	transition: all 0.3s ease-in-out;
 }
@@ -961,7 +962,7 @@ header.main-header .header-sticky.active{
 	position: relative;
 	margin-top: -150px;
 	width: 100%;
-	max-width: 745px;
+	max-width: 100%;
 	background: var(--white-color);
 	border: 1px solid var(--divider-color);
 	box-shadow: 0px 5px 50px 2px #00000012;
@@ -975,7 +976,7 @@ header.main-header .header-sticky.active{
 
 .best-service-item{
 	position: relative;
-	width: calc(33.33% - 20px);
+	width: calc(16% - 20px);
 }
 
 .best-service-item::before{
@@ -2394,7 +2395,7 @@ header.main-header .header-sticky.active{
 }
 
 .footer-contact-item-content h3{
-	font-size: 20px;
+	font-size: 15px;
 	color: var(--white-color);
 }
 
@@ -6757,3 +6758,19 @@ header.main-header .header-sticky.active{
 		max-width: 80%;
 	}
 }
+
+
+/* ////////////////////// */
+
+
+
+
+.navbar-brand img{
+	width: 200px;
+}
+
+.main-header{
+	background: transparent !important;
+}
+
+.
