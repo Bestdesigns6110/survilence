@@ -990,10 +990,7 @@ header.main-header .header-sticky.active{
 	height: 100%;
 }
 
-.best-service-item:last-child:before,
-.best-service-item:nth-child(3n + 3):before{
-	display: none;
-}
+/* a */
 
 .best-service-item .icon-box{
 	margin-bottom: 20px;
@@ -1209,7 +1206,7 @@ header.main-header .header-sticky.active{
 	background: var(--white-color);
 	border: 1px solid var(--divider-color);
 	border-radius: 30px;
-	height: calc(100% - 30px);
+	height: calc(100% - 70px);
 	margin-bottom: 30px;
 	overflow: hidden;
 }
@@ -1233,7 +1230,7 @@ header.main-header .header-sticky.active{
 
 .service-body{
 	text-align: center;
-	padding: 30px;
+	padding: 40px;
 }
 
 .service-body .icon-box{
@@ -1443,7 +1440,7 @@ header.main-header .header-sticky.active{
 }
 
 .need-help-content h3{
-	font-size: 20px;
+	font-size: 25px;
 	color: var(--white-color);
 	transition: all 0.3s ease-in-out;
 }
@@ -6766,6 +6763,7 @@ header.main-header .header-sticky.active{
 
 
 .navbar-brand img{
+	border: 10px solid red !important;
 	width: 200px;
 }
 
@@ -6773,4 +6771,3 @@ header.main-header .header-sticky.active{
 	background: transparent !important;
 }
 
-.
