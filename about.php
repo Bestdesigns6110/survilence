@@ -1,109 +1,5 @@
-<!DOCTYPE html>
-<html lang="zxx">
+ <?php include 'includes/header.php'; ?>
 
-<!-- Mirrored from html.awaikenthemes.com/ultracam/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 18 Jan 2026 08:17:31 GMT -->
-<head>
-	<!-- Meta -->
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-	<meta name="description" content="">
-	<meta name="keywords" content="">
-	<meta name="author" content="Awaiken">
-	<!-- Page Title -->
-    <title> sijansurveillance</title>
-	<!-- Favicon Icon -->
-	<link rel="shortcut icon" type="image/x-icon" href="images/SIJAn-logo.png">
-	<!-- Google Fonts Css-->
-	<link rel="preconnect" href="https://fonts.googleapis.com/">
-    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
-	<!-- Bootstrap Css -->
-	<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
-	<!-- SlickNav Css -->
-	<link href="css/slicknav.min.css" rel="stylesheet">
-	<!-- Swiper Css -->
-	<link rel="stylesheet" href="css/swiper-bundle.min.css">
-	<!-- Font Awesome Icon Css-->
-	<link href="css/all.min.css" rel="stylesheet" media="screen">
-	<!-- Animated Css -->
-	<link href="css/animate.css" rel="stylesheet">
-    <!-- Magnific Popup Core Css File -->
-	<link rel="stylesheet" href="css/magnific-popup.css">
-	<!-- Mouse Cursor Css File -->
-	<link rel="stylesheet" href="css/mousecursor.css">
-	<!-- Main Custom Css -->
-	<link href="css/custom.css" rel="stylesheet" media="screen">
-</head>
-<body>
-
-    <!-- Preloader Start -->
-	<!-- <div class="preloader">
-		<div class="loading-container">
-			<div class="loading"></div>
-			<div id="loading-icon"><img src="images/loader.svg" alt=""></div>
-		</div>
-	</div> -->
-	<!-- Preloader End -->
-
-    <!-- Header Start -->
-	<header class="main-header">
-		<div class="header-sticky">
-			<nav class="navbar navbar-expand-lg">
-				<div class="container">
-					<!-- Logo Start -->
-					<a class="navbar-brand" href="index.html">
-						<img src="images/SIJAN (8) copy-01.svg" alt="Logo">
-					</a>
-					<!-- Logo End -->
-
-					<!-- Main Menu Start -->
-					<div class="collapse navbar-collapse main-menu">
-                        <div class="nav-menu-wrapper">
-                            <ul class="navbar-nav mr-auto" id="menu">
-                                <li class="nav-item "><a class="nav-link" href="index.html">Home</a>
-                                    <!-- <ul>
-                                        <li class="nav-item"><a class="nav-link" href="index.html">Home - Image</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="index-video.html">Home - Video</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="index-slider.html">Home - Slider</a></li>
-                                    </ul> -->
-                                </li>                                
-                                <li class="nav-item"><a class="nav-link" href="about.html">About Us</a>
-                                <li class="nav-item"><a class="nav-link" href="services.html">Services</a></li>
-                                <!-- <li class="nav-item"><a class="nav-link" href="blog.html">Blog</a></li>
-                                <li class="nav-item submenu"><a class="nav-link" href="#">Pages</a> -->
-                                    <!-- <ul>                                        
-                                        <li class="nav-item"><a class="nav-link" href="service-single.html">Service Details</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="blog-single.html">Blog Details</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="projects.html">Projects</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="project-single.html">Project details</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="team.html">Our Team</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="team-single.html">Team Details</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="testimonials.html">Testimonials</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="image-gallery.html">Image Gallery</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="video-gallery.html">Video Gallery</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="faqs.html">FAQs</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="404.html">404</a></li>
-                                    </ul> -->
-                                </li>
-                                <li class="nav-item"><a class="nav-link" href="contact.html">Contact Us</a></li>                         
-                            </ul>
-                        </div>
-                        
-                        <!-- Header Btn Start -->
-                        <!-- <div class="header-btn">
-                            <a href="contact.html" class="btn-default">get a quote</a>
-                        </div> -->
-                        <!-- Header Btn End -->
-					</div>
-					<!-- Main Menu End -->
-					<div class="navbar-toggle"></div>
-				</div>
-			</nav>
-			<div class="responsive-menu"></div>
-		</div>
-	</header>
-	<!-- Header End -->
 
     <!-- Page Header Start -->
 	<div class="page-header parallaxie">
@@ -115,7 +11,7 @@
 						<h1 class="wow fadeInUp" data-cursor="-opaque">About us</h1>
 						<nav class="wow fadeInUp" data-wow-delay="0.2s">
                             <!-- <ol class="breadcrumb">
-								<li class="breadcrumb-item"><a href="index-2.html">home</a></li>
+								<li class="breadcrumb-item"><a href="index-2.php">home</a></li>
 								<li class="breadcrumb-item active" aria-current="page">about us</li>
 							</ol> -->
 						</nav>
@@ -209,7 +105,7 @@
 
                             <!-- About Contact Button Start -->
                             <div class="about-us-btn">
-                                <a href="contact.html" class="btn-default">contact now</a>
+                                <a href="contact.php" class="btn-default">contact now</a>
                             </div>
                             <!-- About Contact Button End -->
                         </div>
@@ -694,7 +590,7 @@
     
                         <!-- Section Button Start -->
                         <!-- <div class="section-btn wow fadeInUp" data-wow-delay="0.6s">
-                            <a href="team.html" class="btn-default">view all team</a>
+                            <a href="team.php" class="btn-default">view all team</a>
                         </div> -->
                         <!-- Section Button End -->
                     <!-- </div>    -->
@@ -708,7 +604,7 @@
                     <!-- <div class="team-item wow fadeInUp" data-wow-delay="0.25s"> -->
                         <!-- Team Image Start -->
                         <!-- <div class="team-image">
-                            <a href="team-single.html" data-cursor-text="View">
+                            <a href="team-single.php" data-cursor-text="View">
                                 <figure class="image-anime">
                                     <img src="images/team-1.jpg" alt="">
                                 </figure>
@@ -728,7 +624,7 @@
                 
                         <!-- Team Content Start -->
                         <!-- <div class="team-content">
-                            <h3><a href="team-single.html">Arjun Khanna</a></h3>
+                            <h3><a href="team-single.php">Arjun Khanna</a></h3>
                             <p>Technical Engineer</p>
                         </div> -->
                         <!-- Team Content End -->
@@ -741,7 +637,7 @@
                     <!-- <div class="team-item wow fadeInUp" data-wow-delay="0.5s"> -->
                         <!-- Team Image Start -->
                         <!-- <div class="team-image">
-                            <a href="team-single.html" data-cursor-text="View">
+                            <a href="team-single.php" data-cursor-text="View">
                                 <figure class="image-anime">
                                     <img src="images/team-2.jpg" alt="">
                                 </figure>
@@ -761,7 +657,7 @@
                 
                         <!-- Team Content Start -->
                         <!-- <div class="team-content">
-                            <h3><a href="team-single.html">Priyanka morsa</a></h3>
+                            <h3><a href="team-single.php">Priyanka morsa</a></h3>
                             <p>Security Specialist</p>
                         </div> -->
                         <!-- Team Content End -->
@@ -774,7 +670,7 @@
                     <!-- <div class="team-item wow fadeInUp" data-wow-delay="0.75s"> -->
                         <!-- Team Image Start -->
                         <!-- <div class="team-image">
-                            <a href="team-single.html" data-cursor-text="View">
+                            <a href="team-single.php" data-cursor-text="View">
                                 <figure class="image-anime">
                                     <img src="images/team-3.jpg" alt="">
                                 </figure>
@@ -794,7 +690,7 @@
                 
                         <!-- Team Content Start -->
                         <!-- <div class="team-content">
-                            <h3><a href="team-single.html">Sarojini Rani</a></h3>
+                            <h3><a href="team-single.php">Sarojini Rani</a></h3>
                             <p>Security Specialist</p>
                         </div> -->
                         <!-- Team Content End -->
@@ -807,7 +703,7 @@
                     <!-- <div class="team-item wow fadeInUp" data-wow-delay="1s"> -->
                         <!-- Team Image Start -->
                         <!-- <div class="team-image"> -->
-                            <!-- <a href="team-single.html" data-cursor-text="View">
+                            <!-- <a href="team-single.php" data-cursor-text="View">
                                 <figure class="image-anime">
                                     <img src="images/team-4.jpg" alt="">
                                 </figure>
@@ -827,7 +723,7 @@
                 
                         <!-- Team Content Start -->
                         <!-- <div class="team-content">
-                            <h3><a href="team-single.html">killada jeevan</a></h3>
+                            <h3><a href="team-single.php">killada jeevan</a></h3>
                             <p>Support Manager</p>
                         </div> -->
                         <!-- Team Content End -->
@@ -857,7 +753,7 @@
                             </figure>
                         </div>
                         <div class="our-support-circle">
-                            <a href="contact.html"><img src="images/contact-now-circle-2.svg" alt=""></a>
+                            <a href="contact.php"><img src="images/contact-now-circle-2.svg" alt=""></a>
                         </div>
                     </div>
                     <!-- Our Support Images End -->
@@ -904,7 +800,7 @@
 
                         <!-- Our Support Button Start -->
                         <div class="our-support-btn wow fadeInUp" data-wow-delay="0.8s">
-                            <a href="contact.html" class="btn-default">contact now</a>
+                            <a href="contact.php" class="btn-default">contact now</a>
                         </div>
                         <!-- Our Support Button End -->
                     </div>
@@ -1292,10 +1188,10 @@
                     <!-- <div class="footer-links">
                         <h3>Quick link</h3>
                         <ul>
-                            <li><a href="index.html">home</a></li>
-                            <li><a href="about.html">about us</a></li>
-                            <li><a href="services.html">services</a></li>
-                            <li><a href="contact.html">contact us</a></li>
+                            <li><a href="index.php">home</a></li>
+                            <li><a href="about.php">about us</a></li>
+                            <li><a href="services.php">services</a></li>
+                            <li><a href="contact.php">contact us</a></li>
                         </ul>
                     </div> -->
                     <!-- Footer Links End -->
@@ -1306,12 +1202,12 @@
                     <!-- <div class="footer-links">
                         <h3>services</h3>
                         <ul>
-                             <li><a href="service-single.html">Ai CCTV</a></li>
-                            <li><a href="service-single.html">Fire Alarm</a></li>
-                            <li><a href="service-single.html">Biometric Access</a></li>
-                            <li><a href="service-single.html">VMS </a></li>
-                            <li><a href="service-single.html">EAS</a></li>
-                            <li><a href="service-single.html">Automatic Fare </a></li>
+                             <li><a href="service-single.php">Ai CCTV</a></li>
+                            <li><a href="service-single.php">Fire Alarm</a></li>
+                            <li><a href="service-single.php">Biometric Access</a></li>
+                            <li><a href="service-single.php">VMS </a></li>
+                            <li><a href="service-single.php">EAS</a></li>
+                            <li><a href="service-single.php">Automatic Fare </a></li>
                         </ul>
                     </div> -->
                     <!-- Footer Links End -->
@@ -1370,207 +1266,4 @@
 
 
 
-    <!-- Main Footer Start -->
-    <footer class="main-footer">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <!-- Main Footer Box Start -->
-                    <div class="main-footer-box">
-                        <!-- Footer Logo Start -->
-                        <div class="footer-logo">
-                            <img src="images/SIJAn-logo.png" alt="">
-                        </div>
-                        <!-- Footer Logo End -->
-                        
-                        <!-- Footer Contact Details Start -->
-                        <div class="footer-contact-details">
-                            <!-- Footer Contact Item Start -->
-                            <div class="footer-contact-item">
-                                <div class="icon-box">
-                                    <img src="images/icon-phone.svg" alt="">
-                                </div>
-                                <div class="footer-contact-item-content">
-                                    <p>phone number</p>
-                                    <h3><a href="tel:+456789254">+91 97257 97083</a></h3>
-                                </div>
-                            </div>
-                            <!-- Footer Contact Item End -->
-
-                            <!-- Footer Contact Item Start -->
-                            <div class="footer-contact-item">
-                                <div class="icon-box">
-                                    <img src="images/icon-mail.svg" alt="">
-                                </div>
-                                <div class="footer-contact-item-content">
-                                    <p>email address</p>
-                                    <h3><a href="mailto:info@domainname.com">sijansurveillance@gmail.com</a></h3>
-                                </div>
-                            </div>
-                            <!-- Footer Contact Item End -->
-
-                            <!-- Footer Contact Item Start -->
-                            <div class="footer-contact-item">
-                                <div class="icon-box">
-                                    <img src="images/icon-location.svg" alt="">
-                                </div>
-                                <div class="footer-contact-item-content">
-                                    <p>location</p>
-                                    <h3>9-1-87, 9-1-87, <br>BRTS Rd, Resapuvanipalem,<br> Asilmetta, Visakhapatnam,<br> Andhra Pradesh<br> 530013, India</h3>
-                                </div>
-                            </div>
-                            <!-- Footer Contact Item End -->
-                        </div>
-                        <!-- Footer Contact Details End --> 
-                    </div>
-                    <!-- Main Footer Box End -->
-                </div>
-
-                <div class="col-lg-4 col-md-6">
-                    <!-- About Footer Start -->
-                    <div class="about-footer">
-                        <!-- Footer Links Start -->
-                        <div class="footer-links">
-                            <h3>About Solutions</h3>
-                            <p>Features such as facial recognition, motion analytics, intrusion detection, object tracking, and behavior analysis enable proactive security management.</p>
-                        </div>
-                        <!-- Footer Links End -->
-
-                        <!-- Footer Social Links Start -->
-                        <div class="footer-social-links">
-                            <ul>
-                                <li><a href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
-                                <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>                                    								
-                            </ul>
-                        </div>
-                        <!-- Footer Social Links End -->
-                    </div>
-                    <!-- About Footer End -->               
-                </div>
-
-                <div class="col-lg-2 col-md-6">
-                    <!-- Footer Links Start -->
-                    <div class="footer-links">
-                        <h3>Quick link</h3>
-                        <ul>
-                            <li><a href="index.html">home</a></li>
-                            <li><a href="about.html">about us</a></li>
-                            <li><a href="services.html">services</a></li>
-                            <li><a href="contact.html">contact us</a></li>
-                        </ul>
-                    </div>
-                    <!-- Footer Links End -->
-                </div>
-
-                <div class="col-lg-2 col-md-6">
-                    <!-- Footer Links Start -->
-                    <div class="footer-links">
-                        <h3>services</h3>
-                        <ul>
-                             <li><a href="cctv.html">Ai CCTV</a></li>
-                            <li><a href="firealarm.html">Fire Alarm</a></li>
-                            <li><a href="biometric.html">Biometric Access</a></li>
-                            <li><a href="vms.html">VMS </a></li>
-                            <li><a href="eas.html">EAS</a></li>
-                            <li><a href="automatic.html">Automatic Fare </a></li>
-                        </ul>
-                    </div>
-                    <!-- Footer Links End -->
-                </div>
-
-                <div class="col-lg-4 col-md-6">
-                    <!-- Newsletter Form Start -->
-                    <div class="newsletter-form footer-links">
-                        <!-- <h3>Subscribe</h3>
-                        <p>Stay updated with the latest security trends offers by subscribing to our newsletter.</p> -->
-                        <!-- <form id="newsletterForm" action="#" method="POST">
-                            <div class="form-group">
-                                <input type="email" name="email" class="form-control" id="mail" placeholder="Enter Your Email" required="">
-                                <button type="submit" class="newsletter-btn"><i class="fa-regular fa-paper-plane"></i></button>
-                            </div>
-                        </form> -->
-
-          
-                        <!-- Google Map IFrame Start -->
-                        <div class="google-map-iframe">
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d7224.531767649676!2d83.30298129107823!3d17.730420782865416!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s9-1-87%2C%209-1-87%2C%20BRTS%20Rd%2C%20Resapuvanipalem%2C%20Asilmetta%2C%20Visakhapatnam%2C%20Andhra%20Pradesh%20530013%2C%20India!5e1!3m2!1sen!2sin!4v1769058035111!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                        </div>
-                        <!-- Google Map IFrame End -->
-
-                    </div>
-                    <!-- Newsletter Form End -->
-                </div>
-            </div>
-        </div>
-
-        <!-- Footer Copyright Start -->
-        <div class="footer-copyright">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6">
-                        <!-- Footer Copyright Text Start -->
-                        <div class="footer-copyright-text">
-                             <p>© 2025 CCTV sijansurveillance. Design & Developed by <a href="https://bestdesigns.in/">bestdesigns.in</a></p>
-                        </div>
-                        <!-- Footer Copyright Text End -->
-                    </div>
-
-                    <div class="col-md-6">
-                        <!-- Footer Privacy Policy Start -->
-                        <div class="footer-privacy-policy">
-                            <ul>
-                                <li><a href="#">help</a></li>
-                                <li><a href="#">privacy policy</a></li>
-                                <li><a href="#">term's & condition</a></li>
-                            </ul>
-                        </div>
-                        <!-- Footer Privacy Policy End -->
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Footer Copyright End -->
-    </footer>
-    <!-- Main Footer End -->
-
-
-
-    <!-- Jquery Library File -->
-    <script src="js/jquery-3.7.1.min.js"></script>
-    <!-- Bootstrap js file -->
-    <script src="js/bootstrap.min.js"></script>
-    <!-- Validator js file -->
-    <script src="js/validator.min.js"></script>
-    <!-- SlickNav js file -->
-    <script src="js/jquery.slicknav.js"></script>
-    <!-- Swiper js file -->
-    <script src="js/swiper-bundle.min.js"></script>
-    <!-- Counter js file -->
-    <script src="js/jquery.waypoints.min.js"></script>
-    <script src="js/jquery.counterup.min.js"></script>
-    <!-- Isotop js file -->
-	<script src="js/isotope.min.js"></script>
-    <!-- Magnific js file -->
-    <script src="js/jquery.magnific-popup.min.js"></script>
-    <!-- SmoothScroll -->
-    <script src="js/SmoothScroll.js"></script>
-    <!-- Parallax js -->
-    <script src="js/parallaxie.js"></script>
-    <!-- MagicCursor js file -->
-    <script src="js/gsap.min.js"></script>
-    <script src="js/magiccursor.js"></script>
-    <!-- Text Effect js file -->
-    <script src="js/SplitText.js"></script>
-    <script src="js/ScrollTrigger.min.js"></script>
-    <!-- YTPlayer js File -->
-    <script src="js/jquery.mb.YTPlayer.min.js"></script>
-    <!-- Wow js file -->
-    <script src="js/wow.min.js"></script>
-    <!-- Main Custom js file -->
-    <script src="js/function.js"></script>
-</body>
-
-<!-- Mirrored from html.awaikenthemes.com/ultracam/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 18 Jan 2026 08:17:35 GMT -->
-</html>
+   <?php include 'includes/footer.php'; ?>
