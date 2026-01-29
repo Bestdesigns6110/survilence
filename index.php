@@ -571,7 +571,7 @@ Our vision is to build a safer digital and physical environment by delivering re
                             </div>
                             <div class="why-choose-item-content">
                                 <h3>Customized Solutions</h3>
-                                <p>We provide professional CCTV installation services offering high-quality cameras.</p>
+                                <p>Expert CCTV installation with high-quality cameras for dependable security.</p>
                             </div>
                         </div>
                         <!-- Why Choose Item End -->
@@ -611,7 +611,7 @@ Our vision is to build a safer digital and physical environment by delivering re
                             </div>
                             <div class="why-choose-item-content">
                                 <h3>Proactive Maintenance</h3>
-                                <p>We provide professional CCTV installation services offering high-quality cameras.</p>
+                                <p>Expert CCTV installation with high-quality cameras for dependable security.</p>
                             </div>
                         </div>
                         <!-- Why Choose Item End -->
@@ -880,7 +880,7 @@ Our vision is to build a safer digital and physical environment by delivering re
                                 </div>
                                 <div class="support-item-content">
                                     <h3>Digital Security</h3>
-                                    <p>We provide professional CCTV installation services.</p>
+                                    <p>Expert CCTV installation with high-quality cameras for dependable security..</p>
                                 </div>
                             </div>
                             <!-- Support Item End -->
@@ -906,36 +906,36 @@ Our vision is to build a safer digital and physical environment by delivering re
 
 
      <!-- CTA Box Section Start -->
-    <div class="cta-box dark-section">
+    <!-- <div class="cta-box dark-section">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-lg-6">
+                <div class="col-lg-6"> -->
                     <!-- CTA Box Content Start -->
-                    <div class="cta-box-content">
+                    <!-- <div class="cta-box-content"> -->
                         <!-- Section Title Start -->
-                        <div class="section-title">
+                        <!-- <div class="section-title">
                             <h3 class="wow fadeInUp">contact us</h3>
                             <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque"><span>Secure your world </span>with trusted solutions join today!</h2>
                             <p class="wow fadeInUp" data-wow-delay="0.4s">Take control of your safety with our reliable security and CCTV solutions.</p>
-                        </div>
+                        </div> -->
                         <!-- Section Title End -->
 
                         <!-- CTA Box Body Start -->
-                        <div class="cta-box-body wow fadeInUp" data-wow-delay="0.6s">
+                        <!-- <div class="cta-box-body wow fadeInUp" data-wow-delay="0.6s"> -->
                             <!-- CTA Box Item Start -->
-                            <div class="cta-box-item">
-                                <div class="icon-box">
+                            <!-- <div class="cta-box-item"> -->
+                                <!-- <div class="icon-box">
                                     <img src="images/icon-phone.svg" alt="">
                                 </div>
                                 <div class="cta-box-item-content">
                                     <p>Phone number</p>
                                     <h3><a href="tel:456789254">+91 97257 97083</a></h3>
                                 </div>
-                            </div>
+                            </div> -->
                             <!-- CTA Box Item End -->
 
                             <!-- CTA Box Item Start -->
-                            <div class="cta-box-item">
+                            <!-- <div class="cta-box-item">
                                 <div class="icon-box">
                                     <img src="images/icon-mail.svg" alt="">
                                 </div>
@@ -943,24 +943,24 @@ Our vision is to build a safer digital and physical environment by delivering re
                                     <p>Email address</p>
                                     <h3><a href="mailto:info@gmail.com">sijansurveillance@gmail.com</a></h3>
                                 </div>
-                            </div>
+                            </div> -->
                             <!-- CTA Box Item End -->
-                        </div>
+                        <!-- </div> -->
                         <!-- CTA Box Body End -->
-                    </div>
+                    <!-- </div> -->
                     <!-- CTA Box Content End -->
-                </div>
+                <!-- </div>
 
-                <div class="col-lg-6">
+                <div class="col-lg-6"> -->
                     <!-- CTA Box Image Start -->
-                    <div class="cta-box-image">
+                    <!-- <div class="cta-box-image">
                         <img src="images/cta-box-image.png" alt="">
-                    </div>
+                    </div> -->
                     <!-- CTA Box Image End -->
-                </div>
+                <!-- </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- CTA Box Section End -->
 
     

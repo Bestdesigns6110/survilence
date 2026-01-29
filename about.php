@@ -2,26 +2,57 @@
 
 
     <!-- Page Header Start -->
+     <!-- <section class="page-title" style="background-image: url(images/white-street-cctv-cameras-with-blurry-glass-building-background-safety-concept-3d-rendering.webp);">
 	<div class="page-header parallaxie">
-		<div class="container">
+		<div class="auto-container">
 			<div class="row align-items-center">
-				<div class="col-lg-12">
+				<div class="col-lg-12"> -->
 					<!-- Page Header Box Start -->
-					<div class="page-header-box">
+					<!-- <div class="page-header-box">
 						<h1 class="wow fadeInUp" data-cursor="-opaque">About us</h1>
-						<nav class="wow fadeInUp" data-wow-delay="0.2s">
+						<nav class="wow fadeInUp" data-wow-delay="0.2s"> -->
                             <!-- <ol class="breadcrumb">
 								<li class="breadcrumb-item"><a href="index-2.php">home</a></li>
 								<li class="breadcrumb-item active" aria-current="page">about us</li>
 							</ol> -->
-						</nav>
-					</div>
+						<!-- </nav>
+					</div> -->
 					<!-- Page Header Box End -->
-				</div>
+				<!-- </div>
 			</div>
 		</div>
 	</div>
+</section> -->
 	<!-- Page Header End -->
+
+
+    <section class="page-titel" style="position: relative;">
+
+	<!-- Background Image -->
+	<img src="images/white-street-cctv-cameras-with-blurry-glass-building-background-safety-concept-3d-rendering.webp" 
+	     alt="Contact Us"
+	     style="width:100%; height:350px; object-fit:cover; display:block;">
+
+	<!-- Content Over Image -->
+	<div class="page-header parallaxie"
+	     style="position:absolute; top:0; left:0; width:100%; height:100%; 
+	            display:flex; align-items:center; justify-content:center;
+	            background:rgba(0,0,0,0.4);">
+
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="page-header-box text-center">
+						<h1 class="wow fadeInUp" data-cursor="-opaque" style="color:#fff;">
+							About us
+						</h1>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</div>
+</section>
 
     <!-- About Us Section Start -->
     <div class="about-us page-about-us">
@@ -178,25 +209,25 @@
     <!-- Our Mission Vision Section End -->
 
     <!-- Why Choose Us Section Start -->
-    <div class="why-choose-us">
+    <!-- <div class="why-choose-us">
         <div class="container">
             <div class="row section-row align-items-center">
-                <div class="col-lg-12">
+                <div class="col-lg-12"> -->
                     <!-- Section Title Start -->
-                    <div class="section-title section-title-center">
+                    <!-- <div class="section-title section-title-center">
                         <h3 class="wow fadeInUp">why choose us</h3>
                         <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque"><span>Your Trusted Partner in</span> Security Solutions</h2>
-                    </div>
+                    </div> -->
                     <!-- Section Title End -->
-                </div>
-            </div>
+                <!-- </div>
+            </div> -->
 
-            <div class="row align-items-center">
-                <div class="col-lg-3">
+            <!-- <div class="row align-items-center">
+                <div class="col-lg-3"> -->
                     <!-- Why Choose Box Start -->
-                    <div class="why-choose-box">
+                    <!-- <div class="why-choose-box"> -->
                         <!-- Why Choose Item Start -->
-                        <div class="why-choose-item wow fadeInUp" data-wow-delay="0.4s">
+                        <!-- <div class="why-choose-item wow fadeInUp" data-wow-delay="0.4s">
                             <div class="icon-box">
                                 <img src="images/icon-why-choose-1.svg" alt="">
                             </div>
@@ -204,11 +235,11 @@
                                 <h3>24/7 Support</h3>
                                 <p>We offer 24/7 technical support to keep your security systems running smoothly.</p>
                             </div>
-                        </div>
+                        </div> -->
                         <!-- Why Choose Item End -->
 
                         <!-- Why Choose Item Start -->
-                        <div class="why-choose-item wow fadeInUp" data-wow-delay="0.6s">
+                        <!-- <div class="why-choose-item wow fadeInUp" data-wow-delay="0.6s">
                             <div class="icon-box">
                                 <img src="images/icon-why-choose-2.svg" alt="">
                             </div>
@@ -216,27 +247,27 @@
                                 <h3>Customized Solutions</h3>
                                 <p>We provide personalized  your requirements and seamless system performance.</p>
                             </div>
-                        </div>
+                        </div> -->
                         <!-- Why Choose Item End -->
-                    </div>
+                    <!-- </div> -->
                     <!-- Why Choose Box End -->
-                </div>
+                <!-- </div> -->
 
-                <div class="col-lg-6">
+                <!-- <div class="col-lg-6"> -->
                     <!-- Why Choose Image Start -->
-                    <div class="why-choose-image">
+                    <!-- <div class="why-choose-image">
                         <figure>
                             <img src="images/why-choose-image.png" alt="">
                         </figure>
-                    </div>
+                    </div> -->
                     <!-- Why Choose Image End -->
-                </div>
+                <!-- </div>
 
-                <div class="col-lg-3">
+                <div class="col-lg-3"> -->
                     <!-- Why Choose Box Start -->
-                    <div class="why-choose-box">
+                    <!-- <div class="why-choose-box"> -->
                         <!-- Why Choose Item Start -->
-                        <div class="why-choose-item wow fadeInUp" data-wow-delay="0.4s">
+                        <!-- <div class="why-choose-item wow fadeInUp" data-wow-delay="0.4s">
                             <div class="icon-box">
                                 <img src="images/icon-why-choose-3.svg" alt="">
                             </div>
@@ -244,11 +275,11 @@
                                 <h3>Remote Access</h3>
                                 <p>We provide regular maintenance and system health checks to keep your security solutions reliable.</p>
                             </div>
-                        </div>
+                        </div> -->
                         <!-- Why Choose Item End -->
 
                         <!-- Why Choose Item Start -->
-                        <div class="why-choose-item wow fadeInUp" data-wow-delay="0.6s">
+                        <!-- <div class="why-choose-item wow fadeInUp" data-wow-delay="0.6s">
                             <div class="icon-box">
                                 <img src="images/icon-why-choose-4.svg" alt="">
                             </div>
@@ -256,14 +287,14 @@
                                 <h3>Proactive Maintenance</h3>
                                 <p>We provide professional CCTV installation services offering high-quality cameras.</p>
                             </div>
-                        </div>
+                        </div> -->
                         <!-- Why Choose Item End -->
-                    </div>
+                    <!-- </div> -->
                     <!-- Why Choose Box End -->
-                </div>
+                <!-- </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Why Choose Us Section End -->
 
     <!-- Our Commitment Section Start -->
@@ -490,23 +521,23 @@
     <!-- Our Expertise Section End -->
 
     <!-- What We Do Section Start -->
-    <div class="what-we-do dark-section">
+    <!-- <div class="what-we-do dark-section">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-lg-6">
+                <div class="col-lg-6"> -->
                     <!-- What We Do Content Start -->
-                    <div class="what-we-do-content">
+                    <!-- <div class="what-we-do-content"> -->
                         <!-- Section Title Start -->
-                        <div class="section-title section-title-center">
+                        <!-- <div class="section-title section-title-center">
                             <h3 class="wow fadeInUp">what we do</h3>
                             <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque"><span>Providing Smart, Reliable</span> Security Solutions</h2>
                             <p class="wow fadeInUp" data-wow-delay="0.4s">We provide smart and reliable security solutions tailored to your needs, including CCTV, fire alarms, access control, and advanced surveillance systems, ensuring safety, efficiency, and peace of mind.</p>
                             <p class="wow fadeInUp" data-wow-delay="0.6s">We specialize in delivering intelligent and dependable security systems for homes, businesses, and public spaces. Our solutions include AI-powered CCTV surveillance, fire alarm and detection systems, biometric access control, visitor management software, EAS, and automated fare collection gates.</p>
-                        </div>
+                        </div> -->
                         <!-- Section Title End -->
 
                         <!-- About Need Help Box Start -->
-                        <div class="about-need-help wow fadeInUp" data-wow-delay="0.8s">
+                        <!-- <div class="about-need-help wow fadeInUp" data-wow-delay="0.8s">
                             <div class="icon-box">
                                 <img src="images/icon-need-help.svg" alt="">
                             </div>
@@ -514,19 +545,19 @@
                                 <p>Call for Any Kind Of Services</p>
                                 <h3><a href="tel:+456789254">+91 97257 97083</a></h3>
                             </div>
-                        </div>
+                        </div> -->
                         <!-- About Need Help Box End -->
-                    </div>
+                    <!-- </div> -->
                     <!-- What We Do Content End -->                    
-                </div>
+                <!-- </div>
 
-                <div class="col-lg-6">
+                <div class="col-lg-6"> -->
                     <!-- What We Counter Image Start -->
-                    <div class="what-we-counter-image">                       
+                    <!-- <div class="what-we-counter-image">                        -->
                         <!-- What We Counter Box Start -->
-                        <div class="what-we-counter-box">
+                        <!-- <div class="what-we-counter-box"> -->
                             <!-- What We Counter Item Start -->
-                            <div class="what-we-counter-item">
+                            <!-- <div class="what-we-counter-item">
                                 <div class="icon-box">
                                     <img src="images/icon-what-we-counter-1.svg" alt="">
                                 </div>
@@ -534,11 +565,11 @@
                                     <h3><span class="counter">550</span>+</h3>
                                     <p>Professional Team</p>
                                 </div>
-                            </div>
+                            </div> -->
                             <!-- What We Counter Item End -->
 
                             <!-- What We Counter Item Start -->
-                            <div class="what-we-counter-item">
+                            <!-- <div class="what-we-counter-item">
                                 <div class="icon-box">
                                     <img src="images/icon-what-we-counter-2.svg" alt="">
                                 </div>
@@ -546,24 +577,24 @@
                                     <h3><span class="counter">250</span>+</h3>
                                     <p>Project Complete</p>
                                 </div>
-                            </div>
+                            </div> -->
                             <!-- What We Counter Item End -->
-                        </div>
+                        <!-- </div> -->
                         <!-- What We Counter Box End -->
 
                         <!-- What We Image Start -->
-                        <div class="what-we-image">
+                        <!-- <div class="what-we-image">
                             <figure>
                                 <img src="images/what-we-image.jpg" alt="">
                             </figure>
-                        </div>
+                        </div> -->
                         <!-- What We Image End -->
-                    </div>
+                    <!-- </div> -->
                     <!-- What We Counter Image End -->
-                </div>
+                <!-- </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- What We Do Section End -->
 
     <!-- Our Team Section Start -->
@@ -1002,38 +1033,38 @@
     <!-- CTA Box Section End -->
 
     <!-- Our FAQs Section Start -->
-    <div class="our-faqs about-our-faqs">
+    <!-- <div class="our-faqs about-our-faqs">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-lg-6">
+                <div class="col-lg-6"> -->
                     <!-- Our FAQs Content Start -->
-                    <div class="our-faqs-content">
+                    <!-- <div class="our-faqs-content"> -->
                         <!-- Section Title Start -->
-                        <div class="section-title">
+                        <!-- <div class="section-title">
                             <h3 class="wow fadeInUp">FAQ</h3>
                             <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque"><span>Frequently </span>asked questions</h2>
                             <p class="wow fadeInUp" data-wow-delay="0.4s">Find answers to common questions about our CCTV, security systems, installation, and services. Our FAQ section helps you make informed choices with ease and confidence.</p>
-                        </div>
+                        </div> -->
                         <!-- Section Title End -->
 
                         <!-- Our FAQs List Start -->
-                        <div class="our-faqs-list wow fadeInUp" data-wow-delay="0.6s">
+                        <!-- <div class="our-faqs-list wow fadeInUp" data-wow-delay="0.6s">
                             <ul>
                                 <li>Crystal-Clear High-Definition Video Recording</li>
                                 <li>Seamless Real-Time Remote Monitoring Access</li>
                                 <li>Expansive Wide-Angle Camera Coverage</li>
                             </ul>
-                        </div>
+                        </div> -->
                         <!-- Our FAQs List End -->
-                    </div>
+                    <!-- </div> -->
                     <!-- Our FAQs Content End -->
-                </div>
+                <!-- </div> -->
 
-                <div class="col-lg-6">
+                <!-- <div class="col-lg-6"> -->
                     <!-- FAQ Accordion Start -->
-                    <div class="faq-accordion" id="accordion">
+                    <!-- <div class="faq-accordion" id="accordion"> -->
                         <!-- FAQ Item Start -->
-                        <div class="accordion-item wow fadeInUp">
+                        <!-- <div class="accordion-item wow fadeInUp">
                             <h2 class="accordion-header" id="heading1">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
                                    How does your CCTV surveillance system work?
@@ -1045,11 +1076,11 @@
                                     <img src="images/faqs-accordion-img.jpg" alt="">
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <!-- FAQ Item End -->
 
                         <!-- FAQ Item Start -->
-                        <div class="accordion-item wow fadeInUp" data-wow-delay="0.2s">
+                        <!-- <div class="accordion-item wow fadeInUp" data-wow-delay="0.2s">
                             <h2 class="accordion-header" id="heading2">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
                                     What components are included in fire alarm systems?
@@ -1061,11 +1092,11 @@
                                     <img src="images/faqs-accordion-img.jpg" alt="">
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <!-- FAQ Item End -->
 
                         <!-- FAQ Item Start -->
-                        <div class="accordion-item wow fadeInUp" data-wow-delay="0.4s">
+                        <!-- <div class="accordion-item wow fadeInUp" data-wow-delay="0.4s">
                             <h2 class="accordion-header" id="heading3">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
                                     How does biometric access control work?
@@ -1077,11 +1108,11 @@
                                     <img src="images/faqs-accordion-img.jpg" alt="">
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <!-- FAQ Item End -->
 
                         <!-- FAQ Item Start -->
-                        <div class="accordion-item wow fadeInUp" data-wow-delay="0.6s">
+                        <!-- <div class="accordion-item wow fadeInUp" data-wow-delay="0.6s">
                             <h2 class="accordion-header" id="heading4">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
                                    How do AFC gates operate?
@@ -1093,14 +1124,14 @@
                                     <img src="images/faqs-accordion-img.jpg" alt="">
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <!-- FAQ Item End -->
-                    </div>
+                    <!-- </div> -->
                     <!-- FAQ Accordion End -->                    
-                </div>
+                <!-- </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Our FAQs Section End -->
 
    <!-- Main Footer Start -->

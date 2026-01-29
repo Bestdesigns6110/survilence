@@ -1,25 +1,58 @@
 <?php include 'includes/header.php'; ?>
 
     <!-- Page Header Start -->
+     <!-- <section class="page-titel" style= "background-image: url(images/modern-security-system-blending-advanced-technology-with-financial-benefits-costeffective-effi.webp);">
 	<div class="page-header parallaxie">
 		<div class="container">
 			<div class="row align-items-center">
-				<div class="col-lg-12">
+				<div class="col-lg-12"> -->
 					<!-- Page Header Box Start -->
-					<div class="page-header-box">
+					<!-- <div class="page-header-box">
 						<h1 class="wow fadeInUp" data-cursor="-opaque">Contact us</h1>
-						<nav class="wow fadeInUp" data-wow-delay="0.2s">
+						<nav class="wow fadeInUp" data-wow-delay="0.2s"> -->
                             <!-- <ol class="breadcrumb">
 								<li class="breadcrumb-item"><a href="index-2.php">home</a></li>
 								<li class="breadcrumb-item active" aria-current="page">contact us</li>
 							</ol> -->
-						</nav>
-					</div>
+						<!-- </nav>
+					</div> -->
 					<!-- Page Header Box End -->
-				</div>
+				<!-- </div>
 			</div>
 		</div>
 	</div>
+</section> -->
+
+
+<section class="page-titel" style="position: relative;">
+
+	<!-- Background Image -->
+	<img src="images/modern-security-system-blending-advanced-technology-with-financial-benefits-costeffective-effi.webp" 
+	     alt="Contact Us"
+	     style="width:100%; height:350px; object-fit:cover; display:block;">
+
+	<!-- Content Over Image -->
+	<div class="page-header parallaxie"
+	     style="position:absolute; top:0; left:0; width:100%; height:100%; 
+	            display:flex; align-items:center; justify-content:center;
+	            background:rgba(0,0,0,0.4);">
+
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="page-header-box text-center">
+						<h1 class="wow fadeInUp" data-cursor="-opaque" style="color:#fff;">
+							Contact us
+						</h1>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</div>
+</section>
+
+
 	<!-- Page Header End -->
 
     <!-- Page Contact Us Start -->

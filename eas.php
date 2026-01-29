@@ -1,27 +1,57 @@
 <?php include 'includes/header.php'; ?>
 
     <!-- Page Header Start -->
-	<div class="page-header parallaxie">
+	<!-- <div class="page-header parallaxie">
 		<div class="container">
 			<div class="row align-items-center">
-				<div class="col-lg-12">
+				<div class="col-lg-12"> -->
 					<!-- Page Header Box Start -->
-					<div class="page-header-box">
+					<!-- <div class="page-header-box">
 						<h1 class="wow fadeInUp" data-cursor="-opaque">EAS (Electronic Article Surveillance)</h1>
-						<nav class="wow fadeInUp" data-wow-delay="0.2s">
+						<nav class="wow fadeInUp" data-wow-delay="0.2s"> -->
                             <!-- <ol class="breadcrumb">
 								<li class="breadcrumb-item"><a href="index-2.php">home</a></li>
 								<li class="breadcrumb-item"><a href="services.php">services</a></li>
 								<li class="breadcrumb-item active" aria-current="page">CCTV installation</li>
 							</ol> -->
-						</nav>
-					</div>
+						<!-- </nav>
+					</div> -->
 					<!-- Page Header Box End -->
+				<!-- </div>
+			</div>
+		</div>
+	</div> -->
+	<!-- Page Header End -->
+
+
+     <section class="page-titel" style="position: relative;">
+
+	<!-- Background Image -->
+	<img src="images/protecting-against-cyber-threats-unauthorized-access-concept-cybersecurity-data-protection-firewalls-encryption-multifactor-authentication.webp" 
+	     alt="Contact Us"
+	     style="width:100%; height:350px; object-fit:cover; display:block;">
+
+	<!-- Content Over Image -->
+	<div class="page-header parallaxie"
+	     style="position:absolute; top:0; left:0; width:100%; height:100%; 
+	            display:flex; align-items:center; justify-content:center;
+	            background:rgba(0,0,0,0.4);">
+
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="page-header-box text-center">
+						<h1 class="wow fadeInUp" data-cursor="-opaque" style="color:#fff;">
+							EAS (Electronic Article Surveillance)
+						</h1>
+					</div>
 				</div>
 			</div>
 		</div>
+
 	</div>
-	<!-- Page Header End -->
+</section>
+
 
     <!-- Page Service Single Start -->
     <div class="page-service-single">
@@ -127,7 +157,7 @@
                                     <!-- Service Facility Item Start -->
                                     <div class="service-facility-item">
                                         <div class="icon-box">
-                                            <img src="images/icon-service-item-1.svg" alt="">
+                                            <img src="images/cctv-camera.svg" alt="">
                                         </div>
                                         <div class="service-facility-item-content">
                                             <h3>UHF Readers</h3>
@@ -138,7 +168,7 @@
                                     <!-- Service Facility Item Start -->
                                     <div class="service-facility-item">
                                         <div class="icon-box">
-                                            <img src="images/icon-service-item-1.svg" alt="">
+                                            <img src="images/system.svg" alt="">
                                         </div>
                                         <div class="service-facility-item-content">
                                             <h3>Loop Detectors</h3>
@@ -149,7 +179,7 @@
                                     <!-- Service Facility Item Start -->
                                     <div class="service-facility-item">
                                         <div class="icon-box">
-                                            <img src="images/icon-service-item-1.svg" alt="">
+                                            <img src="images/fire-alarm%20(1).svg" alt="">
                                         </div>
                                         <div class="service-facility-item-content">
                                             <h3>IR Safety Sensors</h3>
