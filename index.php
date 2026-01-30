@@ -24,11 +24,10 @@
                         <!-- Section Title Start -->
                         <div class="section-title">
                             <!-- <h3 class="wow fadeInUp">welcome solutions</h3> -->
-                            <h1 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">our vision<br> your safety <br>Advanced Security
+                            <h1 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Your Safety,<br> Our Priority
                 
                             </h1>
-                            <p class="wow fadeInUp" data-wow-delay="0.4s">security is not just protection, it is trust.
-Our vision is to build a safer digital and physical environment by delivering reliable, intelligent, and future-ready security solutions. We aim to empower businesses and individuals with systems that prevent risks, respond to threats, and ensure uninterrupted peace of mind.</p>
+                           <h3> <p class="wow fadeInUp" data-wow-delay="0.4s">Smart CCTV & Security Solutions for Home, Office & Business</p></h3>
                         </div>
                         <!-- Section Title End -->
 
@@ -329,7 +328,7 @@ Our vision is to build a safer digital and physical environment by delivering re
                     <!-- Section Title Start -->
                     <div class="section-title section-title-center">
                         <h3 class="wow fadeInUp">services</h3>
-                        <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque"><span>Advanced Surveillance & </span>Access Control Solutions</h2>
+                        <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque"><span>Integrated Security &</span> Automation Solutions</h2>
                     </div>
                     <!-- Section Title End -->
                 </div>
@@ -356,7 +355,7 @@ Our vision is to build a safer digital and physical environment by delivering re
                             </div>        
                             <div class="service-content">
                                 <h3><a href="cctv.php">AI Advanced CCTV Surveillance System</a></h3>
-                                <p>Our AI-powered CCTV surveillance system delivers intelligent, real-time security with unmatched accuracy.</p>
+                                <p>High-definition, AI-enabled CCTV and IP camera solutions with remote monitoring, motion detection, and smart analytics for complete visibility and control.</p>
                             </div>
                             <div class="service-btn">
                                 <a href="cctv.php" class="readmore-btn">Discover More</a>
@@ -387,7 +386,8 @@ Our vision is to build a safer digital and physical environment by delivering re
                             </div>        
                             <div class="service-content">
                                 <h3><a href="firealarm.php">Fire Alarm & Detection <br>System</a></h3>
-                                <p>Our Fire Alarm & Detection System provides early warning and rapid response to protect lives, property, and critical assets.</p>
+                                <p>Early warning fire detection solutions designed to protect life, property,Fire Alarm & Detection Systems
+ and ensure compliance with safety standards.</p>
                             </div>
                             <div class="service-btn">
                                 <a href="firealarm.php" class="readmore-btn">Discover More</a>
@@ -418,7 +418,7 @@ Our vision is to build a safer digital and physical environment by delivering re
                             </div>        
                             <div class="service-content">
                                 <h3><a href="biometric.php">Biometric Access Control Attendance System</a></h3>
-                                <p>Our Biometric Access Control Attendance System delivers secure,management for modern workplaces</p>
+                                <p>Smart and secure entry management using biometric, RFID, and access control solutions for offices, factories, institutions, and commercial spaces.</p>
                             </div>
                             <div class="service-btn">
                                 <a href="biometric.php" class="readmore-btn">Discover More</a>
@@ -449,7 +449,7 @@ Our vision is to build a safer digital and physical environment by delivering re
                             </div>        
                             <div class="service-content">
                                 <h3><a href="vms.php">VMS (Visitor Management Software)</a></h3>
-                                <p>Our Visitor Management Software (VMS) modernizes the way organizations manage and track visitors.</p>
+                                <p>Modern visitor tracking and management solutions for improved security, access control, and professional front-desk operations.</p>
                             </div>
                             <div class="service-btn">
                                 <a href="vms.php" class="readmore-btn">Discover More</a>
@@ -480,7 +480,8 @@ Our vision is to build a safer digital and physical environment by delivering re
                             </div>        
                             <div class="service-content">
                                 <h3><a href="eas.php">EAS (Electronic Article Surveillance)</a></h3>
-                                <p>Our Electronic Article Surveillance (EAS) system provides reliable protection and unauthorized removal of merchandise.</p>
+                                <p>Advanced anti-theft security systems for retail stores to prevent shoplifting and Electronic Article Surveillance (EAS)
+ protect valuable merchandise.</p>
                             </div>
                             <div class="service-btn">
                                 <a href="eas.php" class="readmore-btn">Discover More</a>
@@ -511,7 +512,8 @@ Our vision is to build a safer digital and physical environment by delivering re
                             </div>        
                             <div class="service-content">
                                 <h3><a href="automatic.php">Automatic Fare Collection<br> Gate</a></h3>
-                                <p>Our Automatic Fare Collection (AFC) Gate system delivers fast, secure, and contactless access control for transit stations.</p>
+                                <p>Automated entry and exit gate solutions for controlled access in metros, offices, campuses,Automatic Fare Collection (AFC) Gates
+ and commercial facilities.</p>
                             </div>
                             <div class="service-btn">
                                 <a href="automatic.php" class="readmore-btn">Discover More</a>
@@ -867,8 +869,8 @@ Our vision is to build a safer digital and physical environment by delivering re
                                     <img src="images/icon-support-item-1.svg" alt="">
                                 </div>
                                 <div class="support-item-content">
-                                    <h3>CCTV Installation</h3>
-                                    <p>We provide professional CCTV installation services.</p>
+                                    <h3>Your Safety, Our Priority</h3>
+                                    <p>Smart CCTV & Security Solutions for Home, Office & Business</p>
                                 </div>
                             </div>
                             <!-- Support Item End -->
@@ -879,8 +881,8 @@ Our vision is to build a safer digital and physical environment by delivering re
                                     <img src="images/icon-support-item-2.svg" alt="">
                                 </div>
                                 <div class="support-item-content">
-                                    <h3>Digital Security</h3>
-                                    <p>Expert CCTV installation with high-quality cameras for dependable security..</p>
+                                    <h3>Smart Security for a Safer Tomorrow</h3>
+                                    <p>Advanced Surveillance | Professional Installation | 24/7 Support.</p>
                                 </div>
                             </div>
                             <!-- Support Item End -->

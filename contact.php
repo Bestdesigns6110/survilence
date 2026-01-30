@@ -155,7 +155,7 @@
                     <div class="contact-us-box">
                         <!-- Google Map IFrame Start -->
                         <div class="google-map-iframe">
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d7224.531767649676!2d83.30298129107823!3d17.730420782865416!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s9-1-87%2C%209-1-87%2C%20BRTS%20Rd%2C%20Resapuvanipalem%2C%20Asilmetta%2C%20Visakhapatnam%2C%20Andhra%20Pradesh%20530013%2C%20India!5e1!3m2!1sen!2sin!4v1769058035111!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3612.276079296597!2d83.31251837517283!3d17.729914983216872!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTfCsDQzJzQ3LjciTiA4M8KwMTgnNTQuMyJF!5e1!3m2!1sen!2sin!4v1769747506101!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                         <!-- Google Map IFrame End -->
 

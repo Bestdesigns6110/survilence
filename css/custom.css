@@ -52,7 +52,7 @@
 	--accent-secondary-color	: #B11101;
 	--white-color				: #FFFFFF;
 	--divider-color				: #EEEEEE;
-	--dark-divider-color		: #FFFFFF1A;
+	--dark-divider-color		: #0dcaf0;
 	--error-color				: rgb(230, 87, 87);
 	--default-font				: "Barlow", sans-serif;
 }
@@ -1675,7 +1675,7 @@ header.main-header .header-sticky.active{
 /************************************/
 
 .our-feature{
-	background-image: url('../images/feature-bg-shape.png'), linear-gradient(90deg, var(--accent-color) 0.18%, var(--accent-secondary-color) 100.18%);
+	background-image: url('../images/feature-bg-shape.png'), linear-gradient(90deg, var(--primary-color) 0.18%, var(--dark-divider-color) 100.18%);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
